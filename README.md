@@ -1,5 +1,7 @@
 # Sui NFT with Balance
 
+This repo corresponds with a tutorial I made which can be found here: https://youtu.be/Ni9PEVaobtQ?t=2
+
 A Move smart contract demonstrating how to create NFTs on Sui that can hold SUI tokens. This project shows key differences between EVM and Sui development, particularly around object ownership and capabilities.
 
 ## Overview
